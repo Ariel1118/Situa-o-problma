@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>Situação-Problema Resolvida</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f6f6f6;
-            padding: 20px;
-        }
-        .box {
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.15);
-            margin-bottom: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .resultado {
-            background: #d8ffd8;
-            border-left: 6px solid #26a126;
-            padding: 15px;
-            font-weight: bold;
-        }
-    </style>
+
 </head>
 
 <body>
