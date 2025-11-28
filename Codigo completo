@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Situação-Problema Resolvida</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f6f6f6;
+            padding: 20px;
+        }
+        .box {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.15);
+            margin-bottom: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .resultado {
+            background: #d8ffd8;
+            border-left: 6px solid #26a126;
+            padding: 15px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Situação-Problema Matemática</h1>
+
+    <div class="box">
+        <h2>Problema</h2>
+        <p>
+            Um treinador de basquete comprou novas bolas para o time.  
+            Cada caixa contém <strong>6 bolas</strong>.  
+            Ele comprou <strong>8 caixas</strong>.  
+            Quantas bolas ao todo o treinador recebeu?
+        </p>
+    </div>
+
+    <div class="box">
+        <h2>Resolução</h2>
+        <p>
+            Para descobrir o total de bolas, basta multiplicar a quantidade de caixas pelo número de bolas em cada caixa:
+        </p>
+        <p>
+            <strong>6 bolas × 8 caixas = 48 bolas</strong>
+        </p>
+
+        <div class="resultado">
+            ✔️ <strong>O treinador recebeu 48 bolas de basquete.</strong>
+        </div>
+    </div>
+
+</body>
+</html>
